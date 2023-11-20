@@ -1,0 +1,21 @@
+{
+  "name": "tailwindcss-tp-2",
+  "version": "1.0.0",
+  "description": "## Consignes https://selective-element-e68.notion.site/Module-2-Grids-ec01fc97ca924eb09caf604511fc16f8",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch\n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexischochina/tailwindcss-tp-2.git"
+  },
+  "author": "Alexis Chochina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexischochina/tailwindcss-tp-2/issues"
+  },
+  "homepage": "https://github.com/alexischochina/tailwindcss-tp-2#readme",
+  "keywords": []
+}
